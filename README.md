@@ -1,2 +1,2 @@
 # fibonacci-in-python
-fibonacci in python 
+fibonacci serise in python 
